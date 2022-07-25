@@ -1,0 +1,3 @@
+http://example.com/about/index.html
+http://example.com/2022/07/25/hello-world/
+http://example.com/
