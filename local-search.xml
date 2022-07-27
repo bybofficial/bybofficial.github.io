@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>LinkTest</title>
+    <link href="/2022/07/27/LinkTest/"/>
+    <url>/2022/07/27/LinkTest/</url>
+    
+    <content type="html"><![CDATA[<p>This is a link test.<br><a href="http://www.baidu.com/">www.baidu.com</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Test</title>
     <link href="/2022/07/27/Untitled/"/>
     <url>/2022/07/27/Untitled/</url>
